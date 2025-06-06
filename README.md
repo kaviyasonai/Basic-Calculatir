@@ -28,6 +28,7 @@ JavaScript – Calculator logic and interactivity
 ![image](https://github.com/user-attachments/assets/9431a578-0854-4e31-8b25-52fa36e053b3)
 
 📁 Folder Structure
+
 📁 basic-calculator
 ├── 📄 index.html
 ├── 📄 style.css
@@ -35,6 +36,7 @@ JavaScript – Calculator logic and interactivity
 
 📬 Contact
 Mail: kaviyasonai11@gmail.com
+
 linkedin: http://www.linkedin.com/in/kaviya-sonai-04a858326
 
 
