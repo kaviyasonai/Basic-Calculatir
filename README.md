@@ -27,14 +27,6 @@ JavaScript – Calculator logic and interactivity
 ![image](https://github.com/user-attachments/assets/5cdf027c-76dc-4d0a-b545-de4c36961524)
 ![image](https://github.com/user-attachments/assets/9431a578-0854-4e31-8b25-52fa36e053b3)
 
-🚀 How to Use
-Clone the repository:
-git clone https://github.com/your-username/basic-calculator.git
-
-Navigate to the project folder:
-cd basic-calculator
-Open index.html in your browser to use the calculator.
-
 📁 Folder Structure
 📁 basic-calculator
 ├── 📄 index.html
